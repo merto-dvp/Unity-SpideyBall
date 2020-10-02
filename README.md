@@ -5,4 +5,4 @@ SpideyBall, an unity demo project.
 
 Youtube Demo (Night Mode): https://www.youtube.com/watch?v=nP2xaIKi6t4 
 
-YouTube Demo (Day Mode):   https://www.youtube.com/watch?v=nP2xaIKi6t4
+YouTube Demo (Day Mode):   https://www.youtube.com/watch?v=ptrp0Hqj9yk
