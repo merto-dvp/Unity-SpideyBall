@@ -1,5 +1,5 @@
 # Unity-SpideyBall
-SpideyBall, a unity demo project.
+SpideyBall, an unity demo project.
 
 2x, 3x, 5x and collectable crystals materials are made by me, feel free to use them. (Created with Blender.);
 
